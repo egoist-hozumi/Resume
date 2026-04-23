@@ -19,6 +19,72 @@ Education
 * B.S. in Mathematics and Artificial Intelligence, University of Toronto
   * GPA: 3.46/4.0
 
+Professional Interests
+======
+* **Computer Vision:** Image processing, 3D reconstruction, generative models.
+* **Applied Mathematics:** Algorithm design, optimization, mathematical modeling.
+
+Research Experience
+======
+* **Introduction to Computer Graphics Online Research Project** (February 2025 – April 2025)
+  * USC Viterbi School of Engineering | Advisor: Prof. Saty (DreamWorks Animation)
+  * Mastered industry-standard tools including Blender, Maya, RenderMan, and THREE.js for 3D modeling, rendering, and animation, completing hands-on assignments to create and animate 3D assets.
+  * Explored the integration of modern AI-driven content creation techniques, including image, video, and audio, within the computer graphics pipeline.
+  * Wrote substantial sections of the final project report, detailing 3D modeling processes, rendering pipelines, and technical documentation.
+  * Led a team in the final project, from conception to delivery, culminating in a structured oral presentation and a comprehensive written report.
+  * Thesis topic: *Towards Efficient LLMs: Analyzing Computational Bottlenecks and Optimization Strategies* (accepted by the 2025 3rd International Conference on Artificial Intelligence, Database and Machine Learning, AIDML 2025).
+
+Honors & Awards
+======
+* 2nd Place, Best Overall Game — Level Up Showcase 2026 (Presented by Zynga), for *Salt, Grooves, and Garlic* (Salty Studios, U of T & Centennial College)
+* AMC12 Top 5% (2020)
+* ARML National Bronze Medal (2019)
+* Outstanding Student Leader Award, Yali High School (2021)
+
+Academic Projects
+======
+* **Salt, Grooves, and Garlic** — Programmer, Salty Studios (U of T & Centennial College) (Sep 2025 – present)
+  * [Project website](https://bootleben.itch.io/salt-grooves-and-garlic)
+  * **Awarded 2nd place — Best Overall Game, Level Up Showcase 2026 (Presented by Zynga)**, recognizing mechanics, level design, interface, controls, user experience, and emotional impact.
+  * Collaborated in a 10+ person team to develop an action-rhythm game in Unity, where players combat monsters to the beat of music in procedurally generated dreamscapes.
+  * Programmed core gameplay mechanics, including the rhythm-based input system, boss attack patterns, and the dynamic "Groove Meter" health/performance system.
+  * Implemented and integrated 3D models, animations, and UI assets from the art team into Unity, ensuring a cohesive and functional gameplay experience.
+  * Participated in agile development cycles, including weekly stand-ups and playtesting sessions, to iterate on game design based on user feedback.
+
+* **CSC320: Introduction to Visual Computing** (Fall 2024)
+  * *Project 1: Homographies* — Implemented a document scanner using homography transformations to unwarp images of planar surfaces; developed algorithms to compute homography matrices and backward mapping, achieving artifact-free results. Tools: Python, NumPy.
+  * *Project 2: Beier-Neely Image Morphing* — Built an image morphing tool using field warping and bilinear interpolation; optimized vectorized operations to improve performance by 75% compared to baseline. Tools: Python, OpenCV.
+  * *Project 3: Exemplar-Based Image Inpainting* — Implemented Criminisi's algorithm to reconstruct missing regions in images using patch prioritization; analyzed edge cases (textured vs. uniform regions) and documented artifacts in a technical report.
+  * *Project 4: PatchMatch Algorithm* — Developed a randomized algorithm for efficient patch-based image editing (e.g., Adobe Content-Aware Fill); achieved near-real-time performance by minimizing explicit loops via NumPy vectorization.
+
+Extracurricular Activities & Leadership
+======
+* **Vice President, Anime Club** (2020 – 2021)
+  * Managed finances, negotiated sponsorships, and organized events (e.g., summer comic conventions).
+* **Volunteer, School Tech Support**
+  * Assisted in maintaining IT infrastructure and troubleshooting hardware/software issues.
+
+Internship Experience
+======
+* **Intern, CNPower** (June 2025 – August 2025)
+  * Deployed and maintained a NAS (Network-Attached Storage) system on company VMs for centralized data storage, configured user permissions, and implemented short-term backup/snapshot solutions to ensure data integrity.
+  * Optimized supply-demand logistics by leveraging AI-driven tools, reducing operational costs in transportation and labor through dynamic resource allocation.
+  * Developed a QQ chatbot integrated with the GPT API, enhancing functionality with contextual memory and multimedia support (e.g., stickers), improving user engagement.
+  * Explored Unity for prototyping small-scale games, gaining hands-on experience in C# scripting and 3D environment design.
+
+Technical Skills
+======
+* **Programming:** Python (NumPy, OpenCV), MATLAB, SQL, C# (Unity)
+* **Mathematics:** Linear Algebra, Calculus, Probability, Mathematical Modeling
+* **Tools:** LaTeX, Git, Conda, Jupyter Notebooks, Blender, Maya, RenderMan, THREE.js, Unity
+* **Languages:** English (Fluent), Mandarin (Native)
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Selected Coursework
 ======
 Courses are grouped by subject branch; the semester in parentheses indicates when each course was taken (Winter 2026 courses are currently in progress).
@@ -67,69 +133,3 @@ Courses are grouped by subject branch; the semester in parentheses indicates whe
   * *ECO105Y1 – Principles of Economics* (Fall 2024 – Winter 2025): A broad introduction to microeconomic and macroeconomic reasoning aimed at non-specialists.
   * *FOR201H1 – Conservation of Tropical and Subtropical Forests* (Winter 2025): Ecology, biodiversity, and management strategies for tropical and subtropical forest ecosystems.
   * *RLG319H1 – Death, Dying, and the Afterlife* (Winter 2026): Comparative religious and philosophical perspectives on mortality, rituals of death, and conceptions of the afterlife.
-
-Internship Experience
-======
-* **Intern, CNPower** (June 2025 – August 2025)
-  * Deployed and maintained a NAS (Network-Attached Storage) system on company VMs for centralized data storage, configured user permissions, and implemented short-term backup/snapshot solutions to ensure data integrity.
-  * Optimized supply-demand logistics by leveraging AI-driven tools, reducing operational costs in transportation and labor through dynamic resource allocation.
-  * Developed a QQ chatbot integrated with the GPT API, enhancing functionality with contextual memory and multimedia support (e.g., stickers), improving user engagement.
-  * Explored Unity for prototyping small-scale games, gaining hands-on experience in C# scripting and 3D environment design.
-
-Research Experience
-======
-* **Introduction to Computer Graphics Online Research Project** (February 2025 – April 2025)
-  * USC Viterbi School of Engineering | Advisor: Prof. Saty (DreamWorks Animation)
-  * Mastered industry-standard tools including Blender, Maya, RenderMan, and THREE.js for 3D modeling, rendering, and animation, completing hands-on assignments to create and animate 3D assets.
-  * Explored the integration of modern AI-driven content creation techniques, including image, video, and audio, within the computer graphics pipeline.
-  * Wrote substantial sections of the final project report, detailing 3D modeling processes, rendering pipelines, and technical documentation.
-  * Led a team in the final project, from conception to delivery, culminating in a structured oral presentation and a comprehensive written report.
-  * Thesis topic: *Towards Efficient LLMs: Analyzing Computational Bottlenecks and Optimization Strategies* (accepted by the 2025 3rd International Conference on Artificial Intelligence, Database and Machine Learning, AIDML 2025).
-
-Academic Projects
-======
-* **Salt, Grooves, and Garlic** — Programmer, Salty Studios (U of T & Centennial College) (Sep 2025 – present)
-  * [Project website](https://bootleben.itch.io/salt-grooves-and-garlic)
-  * **Awarded 2nd place — Best Overall Game, Level Up Showcase 2026 (Presented by Zynga)**, recognizing mechanics, level design, interface, controls, user experience, and emotional impact.
-  * Collaborated in a 10+ person team to develop an action-rhythm game in Unity, where players combat monsters to the beat of music in procedurally generated dreamscapes.
-  * Programmed core gameplay mechanics, including the rhythm-based input system, boss attack patterns, and the dynamic "Groove Meter" health/performance system.
-  * Implemented and integrated 3D models, animations, and UI assets from the art team into Unity, ensuring a cohesive and functional gameplay experience.
-  * Participated in agile development cycles, including weekly stand-ups and playtesting sessions, to iterate on game design based on user feedback.
-
-* **CSC320: Introduction to Visual Computing** (Fall 2024)
-  * *Project 1: Homographies* — Implemented a document scanner using homography transformations to unwarp images of planar surfaces; developed algorithms to compute homography matrices and backward mapping, achieving artifact-free results. Tools: Python, NumPy.
-  * *Project 2: Beier-Neely Image Morphing* — Built an image morphing tool using field warping and bilinear interpolation; optimized vectorized operations to improve performance by 75% compared to baseline. Tools: Python, OpenCV.
-  * *Project 3: Exemplar-Based Image Inpainting* — Implemented Criminisi's algorithm to reconstruct missing regions in images using patch prioritization; analyzed edge cases (textured vs. uniform regions) and documented artifacts in a technical report.
-  * *Project 4: PatchMatch Algorithm* — Developed a randomized algorithm for efficient patch-based image editing (e.g., Adobe Content-Aware Fill); achieved near-real-time performance by minimizing explicit loops via NumPy vectorization.
-
-Extracurricular Activities & Leadership
-======
-* **Vice President, Anime Club** (2020 – 2021)
-  * Managed finances, negotiated sponsorships, and organized events (e.g., summer comic conventions).
-* **Volunteer, School Tech Support**
-  * Assisted in maintaining IT infrastructure and troubleshooting hardware/software issues.
-
-Honors & Awards
-======
-* 2nd Place, Best Overall Game — Level Up Showcase 2026 (Presented by Zynga), for *Salt, Grooves, and Garlic* (Salty Studios, U of T & Centennial College)
-* AMC12 Top 5% (2020)
-* ARML National Bronze Medal (2019)
-* Outstanding Student Leader Award, Yali High School (2021)
-
-Professional Interests
-======
-* **Computer Vision:** Image processing, 3D reconstruction, generative models.
-* **Applied Mathematics:** Algorithm design, optimization, mathematical modeling.
-
-Technical Skills
-======
-* **Programming:** Python (NumPy, OpenCV), MATLAB, SQL, C# (Unity)
-* **Mathematics:** Linear Algebra, Calculus, Probability, Mathematical Modeling
-* **Tools:** LaTeX, Git, Conda, Jupyter Notebooks, Blender, Maya, RenderMan, THREE.js, Unity
-* **Languages:** English (Fluent), Mandarin (Native)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
