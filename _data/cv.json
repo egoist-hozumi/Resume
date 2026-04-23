@@ -2,7 +2,7 @@
   "basics": {
     "name": "Qian Taowen",
     "email": "qiantaowen2004@outlook.com",
-    "phone": "",
+    "phone": "+86 15573187603",
     "website": "",
     "summary": "BSc student in Mathematics and Artificial Intelligence at the University of Toronto. Research interests span computer vision, applied mathematics, and AI-driven content creation.",
     "location": {
@@ -79,6 +79,17 @@
     { "name": "Applied Mathematics", "keywords": ["Algorithm design", "Optimization", "Mathematical modeling"] }
   ],
   "references": [],
+  "publications": [
+    {
+      "name": "Towards Efficient LLMs: Analyzing Computational Bottlenecks and Optimization Strategies",
+      "publisher": "2025 3rd International Conference on Artificial Intelligence, Database and Machine Learning (AIDML 2025)",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Undergraduate thesis surveying the principal computational bottlenecks in large language models and evaluating modern optimization strategies such as quantization, pruning, attention acceleration, and mixture-of-experts routing. Produced during the USC Viterbi online research project advised by Prof. Saty (DreamWorks Animation)."
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
   "awards": [
     {
       "title": "2nd Place, Best Overall Game",
@@ -103,6 +114,29 @@
       "date": "2021",
       "awarder": "Yali High School",
       "summary": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Salt, Grooves, and Garlic",
+      "category": "Game Development",
+      "date": "2025-09-01",
+      "url": "https://bootleben.itch.io/salt-grooves-and-garlic",
+      "description": "Unity action-rhythm game built by a 10+ person team (Salty Studios, U of T & Centennial College). Awarded 2nd place — Best Overall Game at Level Up Showcase 2026 (Presented by Zynga). Programmed the rhythm input system, boss attack patterns, and the dynamic Groove Meter mechanic."
+    },
+    {
+      "name": "USC Computer Graphics Research Project",
+      "category": "Research",
+      "date": "2025-02-01",
+      "url": "",
+      "description": "Online research project at USC Viterbi (advised by Prof. Saty, DreamWorks Animation) on 3D modeling, rendering, and AI-driven content creation using Blender, Maya, RenderMan, and THREE.js. Culminated in the AIDML 2025 paper."
+    },
+    {
+      "name": "CSC320 Visual Computing — Project Series",
+      "category": "Computer Vision",
+      "date": "2024-09-01",
+      "url": "",
+      "description": "Four hands-on projects at the University of Toronto: a homography-based document scanner, Beier-Neely image morphing (75% runtime improvement via NumPy vectorization), Criminisi-style exemplar-based inpainting, and a randomized PatchMatch implementation."
     }
   ]
 }

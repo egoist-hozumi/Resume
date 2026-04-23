@@ -127,3 +127,9 @@ Technical Skills
 * **Mathematics:** Linear Algebra, Calculus, Probability, Mathematical Modeling
 * **Tools:** LaTeX, Git, Conda, Jupyter Notebooks, Blender, Maya, RenderMan, THREE.js, Unity
 * **Languages:** English (Fluent), Mandarin (Native)
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
