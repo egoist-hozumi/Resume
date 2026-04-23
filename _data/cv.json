@@ -1,152 +1,142 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Qian Taowen",
+    "email": "qiantaowen2004@outlook.com",
+    "phone": "+86 15573187603",
+    "website": "",
+    "summary": "BSc student in Mathematics and Artificial Intelligence at the University of Toronto. Research interests span computer vision, applied mathematics, and AI-driven content creation.",
     "location": {
-      "address": "",
+      "address": "Heneng Fengdanlishe Residence, Baiye Road, Guitang Subdistrict",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Changsha",
+      "countryCode": "CN",
+      "region": "Hunan"
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+    "profiles": []
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "CNPower",
+      "position": "Intern",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-31",
+      "summary": "Summer internship covering infrastructure, AI-driven logistics, conversational AI, and Unity prototyping.",
+      "highlights": [
+        "Deployed and maintained a NAS (Network-Attached Storage) system on company VMs, configured user permissions, and implemented short-term backup/snapshot solutions.",
+        "Optimized supply-demand logistics with AI-driven tools, reducing operational costs in transportation and labor through dynamic resource allocation.",
+        "Built a QQ chatbot integrated with the GPT API, adding contextual memory and multimedia support (stickers, images) to improve user engagement.",
+        "Prototyped small-scale games in Unity, gaining hands-on experience with C# scripting and 3D environment design."
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "University of Toronto",
+      "area": "Mathematics and Artificial Intelligence",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-09-01",
+      "endDate": "2026-06-01",
+      "gpa": "3.46 / 4.0",
+      "courses": [
+        "CSC311 — Introduction to Machine Learning",
+        "CSC412 — Probabilistic Learning and Reasoning",
+        "CSC413 — Neural Networks and Deep Learning",
+        "CSC384 — Introduction to Artificial Intelligence",
+        "CSC320 — Introduction to Visual Computing",
+        "CSC404 — Introduction to Video Game Design",
+        "APM462 — Nonlinear Optimization",
+        "APM236 — Applications of Linear Programming",
+        "MAT301 — Groups and Symmetries",
+        "MAT334 — Complex Variables",
+        "MAT315 — Introduction to Number Theory"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "NumPy", "OpenCV", "MATLAB", "SQL", "C# (Unity)"]
+    },
+    {
+      "name": "Mathematics",
+      "keywords": ["Linear Algebra", "Calculus", "Probability", "Mathematical Modeling", "Optimization"]
+    },
+    {
+      "name": "Computer Graphics",
+      "keywords": ["Blender", "Maya", "RenderMan", "THREE.js", "Unity"]
+    },
+    {
+      "name": "Tooling",
+      "keywords": ["LaTeX", "Git", "Conda", "Jupyter Notebooks"]
+    }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Mandarin", "fluency": "Native" }
+  ],
+  "interests": [
+    { "name": "Computer Vision", "keywords": ["Image processing", "3D reconstruction", "Generative models"] },
+    { "name": "Applied Mathematics", "keywords": ["Algorithm design", "Optimization", "Mathematical modeling"] }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Towards Efficient LLMs: Analyzing Computational Bottlenecks and Optimization Strategies",
+      "publisher": "2025 3rd International Conference on Artificial Intelligence, Database and Machine Learning (AIDML 2025)",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Undergraduate thesis surveying the principal computational bottlenecks in large language models and evaluating modern optimization strategies such as quantization, pruning, attention acceleration, and mixture-of-experts routing. Produced during the USC Viterbi online research project advised by Prof. Saty (DreamWorks Animation)."
     }
   ],
-  "presentations": [
+  "presentations": [],
+  "teaching": [],
+  "awards": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "title": "2nd Place, Best Overall Game",
+      "date": "2026",
+      "awarder": "Level Up Showcase 2026 (Presented by Zynga)",
+      "summary": "Awarded for Salt, Grooves, and Garlic (Salty Studios, U of T & Centennial College). The Best Overall Game category rewards mechanics, level design, interface, controls, user experience, and emotional impact."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "title": "AMC12 — Top 5%",
+      "date": "2020",
+      "awarder": "Mathematical Association of America",
+      "summary": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "title": "ARML National Bronze Medal",
+      "date": "2019",
+      "awarder": "American Regions Mathematics League",
+      "summary": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "title": "Outstanding Student Leader Award",
+      "date": "2021",
+      "awarder": "Yali High School",
+      "summary": ""
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Salt, Grooves, and Garlic",
+      "category": "Game Development",
+      "date": "2025-09-01",
+      "url": "https://bootleben.itch.io/salt-grooves-and-garlic",
+      "description": "Unity action-rhythm game built by a 10+ person team (Salty Studios, U of T & Centennial College). Awarded 2nd place — Best Overall Game at Level Up Showcase 2026 (Presented by Zynga). Programmed the rhythm input system, boss attack patterns, and the dynamic Groove Meter mechanic."
+    },
+    {
+      "name": "USC Computer Graphics Research Project",
+      "category": "Research",
+      "date": "2025-02-01",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Online research project at USC Viterbi (advised by Prof. Saty, DreamWorks Animation) on 3D modeling, rendering, and AI-driven content creation using Blender, Maya, RenderMan, and THREE.js. Culminated in the AIDML 2025 paper."
+    },
+    {
+      "name": "CSC320 Visual Computing — Project Series",
+      "category": "Computer Vision",
+      "date": "2024-09-01",
+      "url": "",
+      "description": "Four hands-on projects at the University of Toronto: a homography-based document scanner, Beier-Neely image morphing (75% runtime improvement via NumPy vectorization), Criminisi-style exemplar-based inpainting, and a randomized PatchMatch implementation."
     }
   ]
 }
