@@ -18,7 +18,7 @@ Research Interests
 Recent Highlights
 ======
 * Thesis *Towards Efficient LLMs: Analyzing Computational Bottlenecks and Optimization Strategies* accepted by the 2025 3rd International Conference on Artificial Intelligence, Database and Machine Learning (AIDML 2025).
-* Completed a computer graphics research project with USC Viterbi School of Engineering under the advisory of Prof. Saty (DreamWorks Animation), working with OpenSCAD and Blender.
+* Completed a computer graphics research project with USC Viterbi School of Engineering under the advisory of Prof. Saty (DreamWorks Animation), working with OpenSCAD, Three.js and Blender.
 * Contributing as a gameplay programmer on *Salt, Grooves, and Garlic*, an action-rhythm game built in Unity.
 * Summer 2025 intern at CNPower, where I deployed a NAS system, built a GPT-powered QQ chatbot, and prototyped small-scale Unity games.
 
