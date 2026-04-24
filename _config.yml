@@ -22,7 +22,7 @@ repository               : "egoist-hozumi/Resume"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Qian Taowen"
   pronouns         : # example: "she/her"
   bio              : "BSc student in Mathematics and Artificial Intelligence at the University of Toronto. Interested in computer vision, applied mathematics, and AI-driven content creation."
